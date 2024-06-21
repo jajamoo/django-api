@@ -1,7 +1,9 @@
-'''Calculator Functions'''
+"""Calculator Functions"""
 
-def addNum(x, y):
+
+def add_num(x, y):
     return x + y
 
-def subtractNum(x, y):
+
+def subtract_num(x, y):
     return x - y
